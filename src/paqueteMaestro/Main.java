@@ -18,7 +18,6 @@ public class Main {
 			System.out.println("El numero es prime");
 		} else {
 			System.out.println("El numero no es primo");
-		}
-		
+		}		
 	}
 }
