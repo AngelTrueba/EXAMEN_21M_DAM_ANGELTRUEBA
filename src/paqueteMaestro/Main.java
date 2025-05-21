@@ -19,5 +19,6 @@ public class Main {
 		} else {
 			System.out.println("El numero no es primo");
 		}
+		
 	}
 }
